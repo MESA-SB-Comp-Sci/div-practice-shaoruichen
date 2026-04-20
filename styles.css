@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -28,8 +27,6 @@ body {
     text-align: center;
 }
 
-
-
 .movie-section{
     width: 99vw;
     height: 100vh;
@@ -45,7 +42,7 @@ img{
 .info-section{
     display: inline-block;
     width: 49vw;
-    background-color: pink
+    background-color: pink;
 }
 
 .picture-section{
